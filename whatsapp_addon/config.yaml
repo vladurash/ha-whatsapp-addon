@@ -14,7 +14,7 @@ arch:
 init: false
 map:
   - config:rw
-  - media:rw
+  - media:rw # Added support for send media from /media folder
 options:
   clients:
     - default
