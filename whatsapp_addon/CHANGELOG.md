@@ -1,3 +1,8 @@
+## 1.5.1
+
+- Updated Bailet to V6.7.18
+- Added support for send media for /media folder
+
 ## 1.5.0
 
 - Updated whatsapp library
