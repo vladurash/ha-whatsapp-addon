@@ -26,7 +26,8 @@ A WhatsApp API client that connects through the WhatsApp Web browser app
 ## Installation guide
 Install add-on from this repository:
 ```
-https://github.com/giuseppecastaldo/ha-addons
+Original Repo: https://github.com/giuseppecastaldo/ha-addons
+This Repo: https://github.com/ShaylenIT/ha-whatsapp-addon
 ```
 Start the add-on and in a few seconds you will see a persistent notification with QRCode, please scan this one with Whatsapp Mobile app.
 
@@ -34,4 +35,4 @@ After add-on installation restart Home Assistant and then copy the following cod
 ```yaml
 whatsapp:
 ```
-Then restart Home Assistant. If all went well you will se a _whatsapp.send_message_ service.
+Then restart Home Assistant. If all went well you will see a _whatsapp.send_message_ service.
