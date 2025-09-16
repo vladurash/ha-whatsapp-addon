@@ -27,7 +27,8 @@ A WhatsApp API client that connects through the WhatsApp Web browser app
 Install add-on from this repository:
 ```
 Original Repo: https://github.com/giuseppecastaldo/ha-addons
-This Repo: https://github.com/ShaylenIT/ha-whatsapp-addon
+Secondaryy original repo (forked from): https://github.com/ShaylenIT/ha-whatsapp-addon
+My repo: https://github.com/vladurash/ha-whatsapp-addon
 ```
 Start the add-on and in a few seconds you will see a persistent notification with QRCode, please scan this one with Whatsapp Mobile app.
 
